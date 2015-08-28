@@ -1,0 +1,20 @@
+{
+  "name": "Crawler Corretor",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Crawler para pegar dados do sitedoscorretores.com",
+  "keywords": [],
+  "dependencies": {
+    "crawler": "x"
+  },
+  "scripts": {
+    
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wac2007/imovelja_node.git"
+  },
+  "author": "wac2007",
+  "license": ""
+}
